@@ -8,6 +8,7 @@ def loop_iterator(number_of_times)
     puts phrase
     if count == 3
       break
+    end
   end
 end
 
